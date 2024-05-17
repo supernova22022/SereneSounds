@@ -25,7 +25,7 @@ def display_signature():
     st.markdown(
         """
             <div class="signature">
-                Made with ❤️ by Shib Kumar Saraf
+                Made with ❤️ by Shib Kumar 
             </div>
         """
         , unsafe_allow_html=True
